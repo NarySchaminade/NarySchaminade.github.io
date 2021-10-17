@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Seth Nary",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://naryschaminade.github.io/images/seth.png",
+    "email": "seth.nary@student.chaminade.edu",
+    "phone": "585-755-4367",
+    "website": "https://naryschaminade.github.io",
+    "summary": "I am studying for a B.S. in Data Science in the Department of Data Analytics and Sciences and Computer Sciences at the Chaminade University of Honolulu. I expect to graduate in Spring, 2025.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "3140 Waialae Ave. Box 47",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,32 +17,21 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "naryschaminade",
+        "url": "http://github.com/naryschaminade"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Seth Nary",
+        "url": "http://linkedin.com/in/sethnary"
       }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Computer Science",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
